@@ -1,5 +1,5 @@
 {
-	"version" : "0.1.0",
+	"version" : "0.1.1",
 	"name" : "jload-app",
 	"description" : "Java utilities for loading application setting, dependencies, and resources",
 	"homepage" : "https://github.com/TeamworkGuy2/JLoadApp",

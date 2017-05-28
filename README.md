@@ -1,6 +1,6 @@
 JLoadApp
 ==============
-version: 0.1.0
+version: 0.1.1
 
 Resources for loading application resources and settings:
 * `Locations` - a singleton for tracking an application's location (code & resources), includes methods for resolving application relative paths
